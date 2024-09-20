@@ -1,3 +1,4 @@
+/* 
 #![allow(unused_assignments)]
 
 use crate::{iterate, unpack, BitPackWidth, BitPacking, FastLanes, SupportedBitPackWidth};
@@ -106,3 +107,5 @@ mod test {
         assert_eq!(transposed, undelta);
     }
 }
+
+*/
