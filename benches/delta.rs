@@ -1,3 +1,4 @@
+/* 
 #![allow(incomplete_features)]
 #![feature(generic_const_exprs)]
 
@@ -43,3 +44,5 @@ fn delta(c: &mut Criterion) {
 
 criterion_group!(benches, delta);
 criterion_main!(benches);
+
+*/

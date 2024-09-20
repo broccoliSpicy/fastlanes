@@ -1,3 +1,4 @@
+/* 
 #![allow(incomplete_features)]
 #![feature(generic_const_exprs)]
 
@@ -66,3 +67,5 @@ fn pack(c: &mut Criterion) {
 
 criterion_group!(benches, pack);
 criterion_main!(benches);
+
+*/
